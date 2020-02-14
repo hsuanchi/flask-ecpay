@@ -8,8 +8,11 @@
 * 資料庫使用 flask_sqlalchemy – ORM
 * 語言 Python – flask
 
+<img src="https://github.com/hsuanchi/flask-ecpay/blob/master/payment.png" width="700">
+
 參考的綠界支付官方文件如下：
 
 * [官方文件](https://www.ecpay.com.tw//Service/API_Dwnld#)
 * [官方測試後台](https://vendor-stage.ecpay.com.tw/User/LogOn_Step1)
 * [官方範例 Code](https://github.com/ECPay/ECPayAIO_Python/tree/master/sample)
+
