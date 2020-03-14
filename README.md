@@ -4,9 +4,9 @@
 
 詳細細節寫於：
 [【Flask 教學】Python 綠界金流 API 信用卡串接](https://www.maxlist.xyz/2020/02/14/python-ecpay/)
-* 撰寫時間為 2020-2-14，綠界 API 文件版本 V 5.1.38
-* 資料庫使用 flask_sqlalchemy – ORM
-* 語言 Python – flask
+* 撰寫此篇時間為 2020-2-14，綠界 API 文件版本 V 5.1.38 
+* 資料庫使用 flask_sqlalchemy (2.4.0) - ORM 
+* 語言 Python (3.7.2) - flask (1.1.1)
 
 <img src="https://github.com/hsuanchi/flask-ecpay/blob/master/payment.png" width="700">
 
